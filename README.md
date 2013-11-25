@@ -45,5 +45,5 @@ this returns a file called AFRICAN_NATIONAL_CONGRESS.dat" which looks like this:
     Woman: 48.35%
     Man: 51.65%
 
-Party names can be found in the candidates.pdf that is downloaded if you run
+Party names can be found in the candidates.pdf that is downloaded if you run:
     make candidates.pdf
