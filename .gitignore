@@ -1,6 +1,8 @@
 *.py[cod]
 *.pdf
 *.txt
+*.flag
+*.dat
 
 # C extensions
 *.so
