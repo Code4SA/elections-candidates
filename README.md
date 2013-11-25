@@ -3,7 +3,8 @@ elections-candidates
 
 Fun project to print out the distributions of age, star sign and genders of candidates of political parties from the 2009 general elections
 
-example 
+example:
+
     ./run.sh "AFRICAN NATIONAL CONGRESS"
 
 this returns a file called AFRICAN_NATIONAL_CONGRESS.dat" which looks like this:
