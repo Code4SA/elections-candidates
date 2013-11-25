@@ -7,6 +7,7 @@ example
     ./run.sh "AFRICAN NATIONAL CONGRESS"
 
 this returns a file called AFRICAN_NATIONAL_CONGRESS.dat" which looks like this:
+
     Party : AFRICAN NATIONAL CONGRESS
     Number of Candidates: 393
     ====================
@@ -46,4 +47,5 @@ this returns a file called AFRICAN_NATIONAL_CONGRESS.dat" which looks like this:
     Man: 51.65%
 
 Party names can be found in the candidates.pdf that is downloaded if you run:
+
     make candidates.pdf
